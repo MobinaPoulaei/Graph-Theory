@@ -11,4 +11,4 @@ Shortest path algorithms are crucial in graph theory and have numerous applicati
 - **Johnson's Algorithm**: An algorithm for finding shortest paths between all pairs of vertices in sparse graphs, utilizing both Dijkstra's Algorithm and the Bellman-Ford Algorithm.
 For a detailed explanation, you can explore the cells in this notebook, which provide a comprehensive overview and implementation of these algorithms.
 
-For a detailed explanation, you can read our comprehensive blog post on [Graph Traversal Algorithms](https://cafetadris.com/blog/%d9%86%d8%ad%d9%88%d9%87-%db%8c%d8%a7%d9%81%d8%aa%d9%86-%da%a9%d9%88%d8%aa%d8%a7%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d8%b3%db%8c%d8%b1-%d8%af%d8%b1-%da%af%d8%b1%d8%a7%d9%81-%d8%a8%d8%b1/).
+For a detailed explanation, you can read our comprehensive blog post on [Finding the shortest path in a graph](https://cafetadris.com/blog/%d9%86%d8%ad%d9%88%d9%87-%db%8c%d8%a7%d9%81%d8%aa%d9%86-%da%a9%d9%88%d8%aa%d8%a7%d9%87%d8%aa%d8%b1%db%8c%d9%86-%d9%85%d8%b3%db%8c%d8%b1-%d8%af%d8%b1-%da%af%d8%b1%d8%a7%d9%81-%d8%a8%d8%b1/).
